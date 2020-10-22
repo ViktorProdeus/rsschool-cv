@@ -1,0 +1,141 @@
+@import 'https://necolas.github.io/normalize.css/8.0.1/normalize.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500;700&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #e5e5e5;
+}
+
+h2,
+h1 {
+  margin: 0;
+  padding-bottom: 6px;
+  border-bottom: 3px solid red;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+  background-image: linear-gradient(red, red);
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s linear;
+}
+
+a:hover,
+a:focus {
+  background-size: 100% 2px;
+  color: black;
+}
+
+section {
+  padding: 0 0 20px;
+}
+
+.contaier {
+  max-width: 768px;
+  margin: 20px auto;
+  padding: 20px;
+
+  background-color: #ffffff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+
+  font-family: 'Cabin', sans-serif;
+  font-size: 21px;
+}
+
+.wrap {
+  padding-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.wrap h1 {
+  width: 290px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  align-self: start;
+}
+
+.wrap img {
+  display: block;
+  width: 100px;
+  height: 130px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.contact h2 {
+  width: 190px;
+}
+
+.contact ul {
+  padding-left: 25px;
+}
+.contact li {
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+.contact .phone {
+  list-style-image: url('../img/mobile.svg');
+}
+.contact .mail {
+  list-style-image: url('../img/mail.svg');
+}
+.contact .fb {
+  list-style-image: url('../img/facebook.svg');
+}
+.contact .telegram {
+  list-style-image: url('../img/telegram.svg');
+}
+
+.summary h2 {
+  width: 150px;
+}
+
+.skills h2 {
+  width: 100px;
+}
+
+.skills ul {
+  list-style-image: url('../img/check.svg');
+}
+
+.code h2 {
+  width: 240px;
+  margin-bottom: 20px;
+}
+
+.experience h2 {
+  width: 180px;
+}
+
+.experience ul {
+  padding-left: 20px;
+}
+
+.english h2 {
+  width: 120px;
+}
+
+@media (max-width: 350px) {
+  .contact a,
+  .code a {
+    font-size: 18px;
+  }
+}
