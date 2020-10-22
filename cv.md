@@ -2,7 +2,7 @@
 
 ## Contact info:
 
-:iphone:  *+375(29) - 663 - 47 - 23*
+:iphone: _+375(29) - 663 - 47 - 23_
 
 :email: *viktorprodeus@gmail.com*
 
@@ -30,6 +30,7 @@ My main goal is to become a highly qualified software engineer. I love front-end
 :octocat: *https://github.com/ViktorProdeus*
 
 ## Experience
+
 Created projects in [htmlacademy](https://htmlacademy.ru/profile/viktar) :
 
 - [smart-device](https://viktorprodeus.github.io/smart-device/build)
@@ -42,4 +43,5 @@ Created projects in [htmlacademy](https://htmlacademy.ru/profile/viktar) :
 - [cat-energy](https://viktorprodeus.github.io/814599-cat-energy-16/build)
 
 ## English
+
 I studied English in courses - Streamline Language School 02.2017 – 04.2017 (Elementary+)
