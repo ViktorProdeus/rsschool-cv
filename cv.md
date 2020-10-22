@@ -16,14 +16,14 @@ My main goal is to become a highly qualified software engineer. I love front-end
 
 ## Skills
 
-- [x] HTML5 / CSS3 (including flexbox, grid);
-- [x] the basics of JS, ES5, ES6, DOM;
-- [x] LESS, SCSS;
-- [x] Adaptive valid layout;
-- [x] BEM-naming;
-- [x] GIT;
-- [x] Webpack 4, Gulp 3, 4;
-- [x] Adobe Photoshop, Figma;
+[x] HTML5 / CSS3 (including flexbox, grid);
+[x] the basics of JS, ES5, ES6, DOM;
+[x] LESS, SCSS;
+[x] Adaptive valid layout;
+[x] BEM-naming;
+[x] GIT;
+[x] Webpack 4, Gulp 3, 4;
+[x] Adobe Photoshop, Figma;
 
 ## Code examples
 
